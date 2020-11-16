@@ -27,6 +27,7 @@ The Bare Soil Index (BSI) is a numerical indicator that combines blue, red, near
 <img src='./IMG/RBd.png' alt='BSI calculation' style="display: block; width: 50%; margin-left: auto; margin-right: auto;"></img>
 ## Interpretation and description of images
 The index calculation is applied to the blue and red channels. It shows all vegetation in green and the potential slippery ground in blue. This can be useful for soil mapping as it indicates to the user where to do remote sensing analysis on the bare soil; where crops have been harvested or where they are not growing; and the location of landslides or the extent of erosion in non-vegetated areas. Unfortunately, it also highlights certain buildings, making areas of bare soil difficult to separate from houses. It should be noted that the result depends on the vegetation and agriculture of the season.
+
 Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America way, Nov 15, 2020 ([Euronews](https://www.msn.com/de-de/news/panorama/tropensturm-eta-w-c3-bctet-weiter-in-mittelamerika-kurs-nord/vi-BB1aOp6L))
 <img src='./Img/news.jpg' alt='BSI calculation' style="display: block; width: 300%; margin-right: auto; margin-right: auto;"></img>
 
