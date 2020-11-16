@@ -26,17 +26,15 @@ The landslide and mass removal processes that occurred in the southern area of t
 The Bare Soil Index (BSI) is a numerical indicator that combines blue, red, near infrared and short wave infrared spectral bands to capture soil variations. These spectral bands are used in a normalized manner. The short wave infrared and the red spectral bands are used to quantify the soil mineral composition, while the blue and the near infrared spectral bands are used to enhance the presence of vegetation. BSI can be used in numerous remote sensing applications such as soil mapping, crop identification (in combination with NDVI) etc. To calculate the BSI, the following formulas (one for each satellite are used):  
 <img src='./IMG/RBd.png' alt='BSI calculation' style="display: block; width: 50%; margin-left: auto; margin-right: auto;"></img>
 ## Interpretation and description of images
-<img src='./IMG/TBSI.JPG' alt='BSI indicator calculations' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
 The index calculation is applied to the blue and red channels. It shows all vegetation in green and the potential slippery ground in blue. This can be useful for soil mapping as it indicates to the user where to do remote sensing analysis on the bare soil; where crops have been harvested or where they are not growing; and the location of landslides or the extent of erosion in non-vegetated areas. Unfortunately, it also highlights certain buildings, making areas of bare soil difficult to separate from houses. It should be noted that the result depends on the vegetation and agriculture of the season.
 
 <img src='./Img/news.png' alt='BSI calculation' style="display: block; width: 300%; margin-right: auto; margin-right: auto;"></img>
 
-![South Madagascar, composite from 2019-04-26](Img/news.png)
-
 <img src='./Img/gif_land.gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
 The different tests carried out showed that the BSI temporal and the B3 band reflectance are sufficient to identify the traces of the mass removal processes. In the case of the index, the BSI alone does not make it possible to characterize the features investigated that do not correspond solely to an absence of active vegetation, especially since the Sentinel-2 image has a cloud cover and a reactivation of the vegetation was observed locally. Therefore, the temporal values of the BSI need to be taken into account.
-<img src='./IMG/BSI2.png' alt='Landslide map' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
+
+<img src='./Img/gif_land_2.gif' alt='Landslide map' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
 
 ## Author of the script
 - Norma Davila
