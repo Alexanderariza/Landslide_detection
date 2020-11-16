@@ -8,7 +8,7 @@
 </div>
 
 ## Description
-This repository is a custom scripts explained for detecting landslides using space-based data in, **Sentinel Playground** and **EO Browser**. Its goal is to facilitate work with big data in the cloud for landslide inventory and rapid mapping in disaster management.
+This repository is a custom scripts explained for detecting landslides using space-based data on **Sentinel Playground** and **EO Browser**. Its goal is to facilitate the landslide inventory and rapid mapping in disaster management.
 
 The custom processing script has been created to support the commented practices of **Knowledge Portal** of [UN-SPIDER](http://www.un-spider.org/) program of the United Nations Office for Outer Space Affairs - [ONOOSA](https://www.unoosa.org/).
 
