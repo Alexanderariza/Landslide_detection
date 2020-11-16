@@ -31,6 +31,7 @@ The index calculation is applied to the blue and red channels. It shows all vege
 
 <img src='./Img/news.png' alt='BSI calculation' style="display: block; width: 300%; margin-right: auto; margin-right: auto;"></img>
 
+![South Madagascar, composite from 2019-04-26](Img/news.png)
 
 <img src='./Img/gif_land.gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
