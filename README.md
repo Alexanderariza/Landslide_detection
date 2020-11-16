@@ -35,8 +35,10 @@ Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America 
 
 The different tests carried out showed that the BSI temporal and the B3 band reflectance are sufficient to identify the traces of the mass removal processes. In the case of the index, the BSI alone does not make it possible to characterize the features investigated that do not correspond solely to an absence of active vegetation, especially since the Sentinel-2 image has a cloud cover and a reactivation of the vegetation was observed locally. Therefore, the temporal values of the BSI need to be taken into account.
 
+Sentinel 2 image before to the landslides in the town of Queja in Alta Verapaz, comparing values of the bare soil index BSI, NDVI and NDWI. 01-09-2020
 <img src='./Img/gifland(2).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
+Sentinel 2 image after to the landslides in the town of Queja in Alta Verapaz, comparing values of the bare soil index BSI, NDVI and NDWI. 10-11-2020
 <img src='./Img/gifland(3).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
 ## Author of the script
