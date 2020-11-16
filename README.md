@@ -28,7 +28,7 @@ The Bare Soil Index (BSI) is a numerical indicator that combines blue, red, near
 ## Interpretation and description of images
 <img src='./IMG/TBSI.JPG' alt='BSI indicator calculations' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
 The index calculation is applied to the blue and red channels. It shows all vegetation in green and the potential slippery ground in blue. This can be useful for soil mapping as it indicates to the user where to do remote sensing analysis on the bare soil; where crops have been harvested or where they are not growing; and the location of landslides or the extent of erosion in non-vegetated areas. Unfortunately, it also highlights certain buildings, making areas of bare soil difficult to separate from houses. It should be noted that the result depends on the vegetation and agriculture of the season.
-<img src='./IMG/BSI.png' alt='Comparison of methodologies' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
+<img src='./IMG/news.png' alt='Comparison of methodologies' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
 The different tests carried out showed that the BSI temporal and the B3 band reflectance are sufficient to identify the traces of the mass removal processes. In the case of the index, the BSI alone does not make it possible to characterize the features investigated that do not correspond solely to an absence of active vegetation, especially since the Sentinel-2 image has a cloud cover and a reactivation of the vegetation was observed locally. Therefore, the temporal values of the BSI need to be taken into account.
 <img src='./IMG/BSI2.png' alt='Landslide map' style="display: block; margin: 5px auto 5px auto; width: 100%;"></img>
 
