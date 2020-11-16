@@ -28,17 +28,17 @@ The Bare Soil Index (BSI) is a numerical indicator that combines blue, red, near
 ## Interpretation and description of images
 The index calculation is applied to the blue and red channels. It shows all vegetation in green and the potential slippery ground in blue. This can be useful for soil mapping as it indicates to the user where to do remote sensing analysis on the bare soil; where crops have been harvested or where they are not growing; and the location of landslides or the extent of erosion in non-vegetated areas. Unfortunately, it also highlights certain buildings, making areas of bare soil difficult to separate from houses. It should be noted that the result depends on the vegetation and agriculture of the season.
 
-Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America way, Nov 08, 2020 ([Euronews](https://www.msn.com/de-de/news/panorama/tropensturm-eta-w-c3-bctet-weiter-in-mittelamerika-kurs-nord/vi-BB1aOp6L))
+**Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America way, Nov 08, 2020 ([Euronews](https://www.msn.com/de-de/news/panorama/tropensturm-eta-w-c3-bctet-weiter-in-mittelamerika-kurs-nord/vi-BB1aOp6L))**
 <img src='./Img/news.jpg' alt='BSI calculation' style="display: block; width: 300%; margin-right: auto; margin-right: auto;"></img>
 
 <img src='./Img/gif_land.gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
 The different tests carried out showed that the BSI temporal and the B3 band reflectance are sufficient to identify the traces of the mass removal processes. In the case of the index, the BSI alone does not make it possible to characterize the features investigated that do not correspond solely to an absence of active vegetation, especially since the Sentinel-2 image has a cloud cover and a reactivation of the vegetation was observed locally. Therefore, the temporal values of the BSI need to be taken into account.
 
-Sentinel 2 image before to the landslides in the town of Queja in Alta Verapaz, comparing values of the bare soil index BSI, NDVI and NDWI. 01-09-2020
+**Sentinel 2 image before to the landslides in the town of Queja in Alta Verapaz, comparing values of the bare soil index BSI, NDVI and NDWI. 01-09-2020**
 <img src='./Img/gifland(2).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
-Sentinel 2 image after to the landslides in the town of Queja in Alta Verapaz, comparing values of the bare soil index BSI, NDVI and NDWI. 10-11-2020
+**Sentinel 2 image after to the landslides in the town of Queja in Alta Verapaz, comparing values of the bare soil index BSI, NDVI and NDWI. 10-11-2020**
 <img src='./Img/gifland(3).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
 ## Author of the script
