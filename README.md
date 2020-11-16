@@ -6,11 +6,14 @@
       {% include_relative script.js %}
 {% endhighlight %}
 </div>
+
 ## Description
 This repository is a collection of basic scripts - explained in **English and Spanish** - for analysing landslides using space-based data in [**Google Earth Engine (GEE)**](https://earthengine.google.com/), [**Sentinel Playground**](https://www.sentinel-hub.com/explore/sentinelplayground/) or [**EO Browser**](https://www.sentinel-hub.com/explore/eobrowser/). It aims to facilitate working with big data in the cloud as an alternative to using desktop software.
+
 ## 1. Evaluation and visualization
 * [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=16.444296750697553&lng=-96.42880439758301&zoom=15&preset=CUSTOM&layers=B01,B02,B03&maxcc=39&gain=1.0&gamma=1.0&time=2019-12-01%7C2020-06-27&atmFilter=&showDates=false&evalscript=Ly9JbmRpY2UgdGVtcG9yYWwgZGUgc3VlbG8gZGVzbnVkbywgVmVyLiAxLjAKLy90ZW1wb3JhbCBCYXJyZW4gU29pbCBTY3JpcHQKCmxldCBCU0kgPSAoKEIxMSArIEIwNCktKEIwOCArIEIwMikpLygoQjExICsgQjA0KSsoQjA4ICsgQjAyKSkKIApyZXR1cm4gWyBCMDQsIEIwOCwgQlNJICogNi4yNV07Cg%3D%3D)
 * [EO Browser](https://apps.sentinel-hub.com/eo-browser/?zoom=15&lat=16.05614&lng=-96.26152&themeId=DEFAULT-THEME&datasetId=S2L2A&fromTime=2020-04-28T00%3A00%3A00.000Z&toTime=2020-04-28T23%3A59%3A59.999Z&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2Fbd86bcc0-f318-402b-a145-015f85b9427e&evalscript=Ly9WRVJTSU9OPTEKLy9JbmRpY2UgdGVtcG9yYWwgZGUgc3VlbG8gZGVzbnVkbywgVmVyLiAxLjAKLy90ZW1wb3JhbCBCYXJyZW4gU29pbCBTY3JpcHQKCmxldCBCU0kgPSAyLjUgKiAoKEIxMSArIEIwNCktKEIwOCArIEIwMikpLygoQjExICsgQjA0KSsoQjA4ICsgQjAyKSkKIApyZXR1cm4gWyBCMDQsIEIwOCwgQlNJICogNi4yNV07Cg%3D%3D)
+
 ## 2. Definition of landslides
 According to the United Nations Office for Disaster Risk Reduction [(UNDRR)](https://www.unisdr.org/files/52828_03landslidehazardandriskassessment.pdf#page=2), landslides are a a "variety of processes that result in the downward and outward movement of slope-forming materials, including rock, soil, artificial fill, or a combination of these. The materials may move by falling, toppling, sliding, spreading, or flowing." 
 ## 3. General description of the algorithm 
