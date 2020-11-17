@@ -44,7 +44,7 @@ The preliminary results showed that the use of BSI, NDVI and NDWI in combination
 
 **Sentinel 2 image acquired by 10/11/2020 after landslide events in Queja - Alta Verapaz comparing spectral indexes on bare soils**
 <img src='./Img/gifland(3).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
-Limitations exist when the script trie to separating barren soil from buildings, due to a similar spectral response. It is thus most valuable in rural regions with steep slopes, allowing to locate landslides by their shape, that facilitating rapid inventory of landslides in the event of disasters. Future use of a DEM would allow for better discrimination.
+Limitations exist when the script trying to separate barren soil from buildings and urban areas, due to a similar spectral response. Therefore, this script gets better results in rural regions along roads and built-up emplaced on steep slopes, where the landslides occurrence currently; facilitating the rapid mapping of landslides in case of disasters. For future improvements, we recommend the use of a digital elevation model as a mask to get better landslides discrimination concerning other covers.
 
 ## Author of the script
 - Alexander Ariza
