@@ -19,7 +19,7 @@ The custom processing script has been created to support the commented practices
 ## Definition of landslides
 According to the United Nations Office for Disaster Risk Reduction [(UNDRR)](https://www.unisdr.org/files/52828_03landslidehazardandriskassessment.pdf#page=2), landslides are a "variety of processes that result in the downward and outward movement of slope-forming materials, including rock, soil, artificial fill, or a combination of these. The materials may move by falling, toppling, sliding, spreading, or flowing."
 
-**Landslides by huracan [ETA](https://emergency.copernicus.eu/mapping/list-of-components/EMSR481) in San Cristóbal de Verapaz – Guatemala. Sentinel 2 acquired on 10/11/2020.**
+**Landslides by huracan [ETA](https://emergency.copernicus.eu/mapping/list-of-components/EMSR481) in San Cristóbal de Verapaz – Guatemala. Sentinel 2 acquired on 10/11/2020**
 <img src='./Img/S2_20-11-10.jpg' alt='BSI calculation' style="display: block; width: 50%; margin-left: auto; margin-right: auto;"></img>
 
 ## General description of the Script 
@@ -29,7 +29,7 @@ The first version of the script confused the high reflectivity of clouds as bare
 ## Interpretation and description of images
 Landslides are a geological hazard which can cause extreme damage to infrastructure and loss of life. Severe hurricane, typhoons and earthquakes frequently generate widespread landslides, which can cause damage to roads and cut off rivers can cause flooding and destabilization of the ground, in turn inducing landslidthe isolation of the affected areasesand preventing the supply of aid.
 
-**Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America way, 08/11/2020 ([Euronews](https://www.msn.com/de-de/news/panorama/tropensturm-eta-w-c3-bctet-weiter-in-mittelamerika-kurs-nord/vi-BB1aOp6L))**
+**Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America, 08/11/2020 ([Euronews](https://www.msn.com/de-de/news/panorama/tropensturm-eta-w-c3-bctet-weiter-in-mittelamerika-kurs-nord/vi-BB1aOp6L))**
 <img src='./Img/news.jpg' alt='BSI calculation' style="display: block; width: 300%; margin-right: auto; margin-right: auto;"></img>
 
 The outcomes are shown according to R:G:B composite image where the yellow color represents bare soils, while orange and brown colors are linked to surficial soils or debris slides, which have suffered a remotion or emplacement motion. Particularly,  for an active landslide, both colors matching with vertical erosion towards the proximal area of the landslide (headwerd) or over talud deposits.
