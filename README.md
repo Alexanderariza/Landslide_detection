@@ -36,7 +36,7 @@ The outcomes are shown according to R:G:B composite image where the yellow color
 
 <img src='./Img/gif_land.gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
-The different tests carried out showed that the BSI temporal and the B3 band reflectance are sufficient to identify the traces of the mass removal processes. In the case of the index, the BSI alone does not make it possible to characterize the features investigated that do not correspond solely to an absence of active vegetation, especially since the Sentinel-2 image has a cloud cover and a reactivation of the vegetation was observed locally. Therefore, the temporal values of the BSI need to be taken into account.
+The different tests carried out showed that the uso of BSI, NDVI and NDWI in combination with the B11 reflectance are sufficient to identify the traces of the mass removal processes. In the case of the index, the BSI alone does not make it possible to characterize the features investigated that do not correspond solely to an absence of active vegetation, especially in zones with reactivation of the vegetation. Therefore, the temporal values (pre and post) of the BSI need to be taken into account 
 
 **Sentinel 2 image of the 01/09/2020 before to the landslides in the town of Queja in Alta Verapaz, comparing index values of the bare soil**
 <img src='./Img/gifland(2).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
