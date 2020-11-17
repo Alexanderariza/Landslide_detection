@@ -53,4 +53,5 @@ Limitations exist when the script trie to separating barren soil from buildings,
 ## Credits & references
 For the Landslide detection script the Barren soil index [BSI](https://custom-scripts.sentinel-hub.com/sentinel-2/barren_soil/) and the a version modified of Urban Classification proposed by Monja Šebela was used.
 
-[1] OCHOA-TEJEDA, Verónica  y  PARROT, Jean-François.Extracción automática de trazas de deslizamientos utilizando un modelo digital de terreno e imágenes de satélite de alta resolución IKONOS: Ejemplo en la Sierra Norte de Puebla, México. Rev. mex. cienc. geol [online]. 2007, vol.24, n.3, pp.354-367. ISSN 2007-2902.
+[1] Ariza Ortiz, A., Roa Melgarejo, O. J., Serrato, P. K., & León Rincón, H. A. (2018). Using spectral ratios derived from remote sensing to geomorphological surveys in island areas of the Colombian Caribbean. Perspectiva Geográfica. https://doi.org/10.19053/01233769.5863
+[2] Dávila-Hernández, N., Lira, J., Capra-Pedol, L., & Zucca, F. (2011). A normalized difference lahar index based on Terra/Aster and Spot 5 images: An application at Colima Volcano, Mexico. Revista Mexicana de Ciencias Geologicas.
