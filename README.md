@@ -19,7 +19,7 @@ The custom processing script has been created to support the [recommended practi
 ## Definition of landslides
 According to the United Nations Office for Disaster Risk Reduction [(UNDRR)](https://www.unisdr.org/files/52828_03landslidehazardandriskassessment.pdf#page=2), landslides are a "variety of processes that result in the downward and outward movement of slope-forming materials, including rock, soil, artificial fill, or a combination of these. The materials may move by falling, toppling, sliding, spreading, or flowing."
 
-**Landslides by [ETA hurricane](https://emergency.copernicus.eu/mapping/list-of-components/EMSR481) in San Cristóbal de Verapaz – Guatemala. Sentinel 2 acquired on 10/11/2020**
+**Landslides trigering by [ETA hurricane](https://emergency.copernicus.eu/mapping/list-of-components/EMSR481) in San Cristóbal de Verapaz – Guatemala. Sentinel 2 acquired on 10/11/2020**
 <img src='./Img/S2_20-11-10.jpg' alt='BSI calculation' style="display: block; width: 50%; margin-left: auto; margin-right: auto;"></img>
 
 ## General description of the Script 
