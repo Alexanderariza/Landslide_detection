@@ -48,8 +48,8 @@ The different tests carried out showed that the uso of BSI, NDVI and NDWI in com
 Limitations exist when the script trie to separating barren soil from buildings, due to a similar spectral response. It is thus most valuable in rural regions with steep slopes, allowing to locate landslides by their shape, that facilitating rapid inventory of landslides in the event of disasters. Future use of a DEM would allow for better discrimination.
 
 ## Author of the script
-- Norma Davila
 - Alexander Ariza
+- Norma Davila
       
 ## Credits & references
 For the Landslide detection script the Barren soil index [BSI](https://custom-scripts.sentinel-hub.com/sentinel-2/barren_soil/) and the Urban Classification 
