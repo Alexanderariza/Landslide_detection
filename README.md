@@ -34,7 +34,7 @@ Landslides are a geological hazard which can cause extreme damage to infrastruct
 
 The outcomes are shown according to R:G:B composite image where the yellow color represents bare soils, while orange and brown colors are linked to surficial soils or debris slides, which have suffered a remotion or emplacement motion. Particularly,  for an active landslide, both colors matching with vertical erosion towards the proximal area of the landslide (headwerd) or over talud deposits.
 
-**Landslide detection for rapid Mapping layer exported from EO Browser on a 3D model in google earth**
+**Landslide detection for rapid Mapping layer exported from EO Browser on a 3D model in Google Earth**
 <img src='./Img/gifland(1).gif' alt='Comparison of methodologies' style="display: block; margin-right: 5px auto 5px auto; width: 100%;"></img>
 
 **Sentinel 2 image of the 01/09/2020 before to the landslides in the town of Queja in Alta Verapaz, comparing index values of the bare soil**
