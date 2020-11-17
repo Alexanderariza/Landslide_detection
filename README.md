@@ -27,7 +27,7 @@ The script for landslide detection for rapid mapping is based in the response of
 
 The first version of the script confused the high reflectivity of clouds as bare soil; for this reason, the new scrip It includes a Cloud masks computed using the CLP (cloud probabilities) of [s2cloudless](https://docs.sentinel-hub.com/api/latest/user-guides/cloud-masks/#cloud-masks-and-cloud-probabilities), that are available at Sentinel Hub. The script that returns three bands (R/G/B and CLM) will result a real imagen, as well as the fraction of cloudy pixels per each observation.
 ## Interpretation and description of images
-Landslides are a geological hazard which can cause extreme damage to infrastructure and loss of life. Severe hurricane, typhoons and earthquakes frequently generate widespread landslides, which can cause damage to roads and cut off rivers can cause flooding and destabilization of the ground, in turn inducing landslidthe isolation of the affected areases.
+Landslides are a geological hazard which can cause extreme damage to infrastructure and loss of life. Severe hurricane, typhoons and earthquakes frequently generate widespread landslides, which can cause damage to roads and cut off rivers can cause flooding and destabilization of the ground, in turn inducing landslidthe isolation of the affected areasesand preventing the supply of aid.
 
 **Tropical storm "ETA" in San Cristóbal de Verapaz - Guatemala - Central America way, 08/11/2020 ([Euronews](https://www.msn.com/de-de/news/panorama/tropensturm-eta-w-c3-bctet-weiter-in-mittelamerika-kurs-nord/vi-BB1aOp6L))**
 <img src='./Img/news.jpg' alt='BSI calculation' style="display: block; width: 300%; margin-right: auto; margin-right: auto;"></img>
